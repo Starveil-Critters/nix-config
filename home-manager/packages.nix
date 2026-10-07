@@ -39,6 +39,7 @@
     libreoffice # Free Microsoft Word Clone
     # godot # Game Engine, Similar to unity.
     vscodium # Text Editor
+    pinta # drawing software
 
     # Gaming/Modding Related
     tetrio-desktop # Webclient for Tetrio, a tetris clone. (ALMOST at a sub 1 min sprint rn @,@)

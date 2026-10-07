@@ -17,5 +17,5 @@
       ./waybar.nix
       ./wofi.nix
       ./yazi.nix
-    ];  
+    ];
 }
