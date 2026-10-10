@@ -2,7 +2,7 @@
 
 {
   home.username = "alice";
-  home.homeDirectory = "/home/alice";
+  # home.homeDirectory = "/home/alice";
 
 
   # Import files from the current configuration directory into the Nix store,
