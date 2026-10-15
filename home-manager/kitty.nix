@@ -35,29 +35,29 @@ background_opacity 0.7
 
 
 # Finally, the COLORS! these use the design system I made for this rice.
-cursor               #AC82E9
+cursor               #00fbff
 
-selection_background #d8cab8
-selection_foreground #141216
+selection_background #b8d8d5
+selection_foreground #121616
 
-background           #141216
-foreground           #d8cab8
+background           #121616
+foreground           #d4e0df
 
-color0               #2b2135
-color8               #92fcfa
-color1               #fc4649
-color9               #fc4649
-color2               #c4e881
-color10              #c4e881
-color3               #AC82E9
-color11              #AC82E9
-color4               #7b91fc
-color12              #7b91fc
-color5               #f3fc7b
-color13              #f3fc7b
-color6               #8F56E1
-color14              #8F56E1
-color7               #fc92fc
-color15              #d8cab8
+color0               #212335
+color8               #293232
+color1               #d32c4d
+color9               #fe365e
+color2               #15ff00
+color10              #00ff3c
+color3               #d4e300
+color11              #eeff00
+color4               #1a72ff
+color12              #1a72ff
+color5               #cb00cb
+color13              #d800e7
+color6               #00d7be
+color14              #00fbff
+color7               #edefef
+color15              #eeeeee
   ";
 }

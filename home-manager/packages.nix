@@ -58,7 +58,7 @@
     btop # System Monitor for the terminal
     cowsay # testing here
     xwayland-satellite # Steam needs this
-    
+    scrcpy # Screencopy (usb streaming for ayn)
     
 
 

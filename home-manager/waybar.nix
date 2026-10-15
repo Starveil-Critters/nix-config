@@ -137,13 +137,17 @@ window#waybar {
   margin-right: 0px;
   padding: 2px 8px;
   border-radius: 0px;
-  color: #ac82e9;
+  color: #eeff00;
 
   border-style: solid;
   border-color: #d8cab8;
   border-width: 1px;
 
   transition-duration: 120ms;
+}
+
+#tray {
+color: #d800e7;
 }
 
 /*  */
@@ -154,7 +158,7 @@ margin: 6px;
 margin-right: 0px;
 padding: 2px 8px;
 border-radius: 0px;
-color: #ac82e9;
+color: #1a72ff;
 
 border-style: solid;
 border-color: #d8cab8;
@@ -171,6 +175,7 @@ transition-duration: 120ms;
 
 #clock {
   margin-right: 6px;
+  color: #d32c4d
 }
 
 #clock:hover {
@@ -178,16 +183,22 @@ transition-duration: 120ms;
   color: #d8cab8;
 }
 
+
 #pulseaudio:hover {
   background-color: rgba(20, 18, 22, 0.7);
   color: #d8cab8;
   transition-duration: 120ms;
 }
 
+#network {
+color: #00d7be
+}
+
 #custom-applauncher {
   font-weight: bold;
   transition-duration: 120ms;
   padding: 0px 25px 0px 25px;
+  color: #00ff3c
 }
 #custom-applauncher:hover {
   background-color: rgba(20, 18, 22, 0.7);
@@ -196,9 +207,10 @@ transition-duration: 120ms;
 }
 
 #custom-musicplayer {
-font-weight: bold;
-transition-duration: 120ms;
-padding: 0px 25px 0px 25px;
+  font-weight: bold;
+  transition-duration: 120ms;
+  padding: 0px 25px 0px 25px;
+  color: #d32c4d
 }
 #custom-musicplayer:hover {
 background-color: rgba(20, 18, 22, 0.7);
@@ -222,7 +234,7 @@ transition-duration: 120ms;
 }
 #tray menu menuitem:hover {
   background-image: linear-gradient(to bottom, #27232b 100%);
-  color: #ac82e9;
+  color: #1a72ff;
   font-weight: bold;
 }
 
