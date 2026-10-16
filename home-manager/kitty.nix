@@ -23,7 +23,7 @@ font_size 14
 
 # Background opacity, set to 0.7.
 # Blur works with hyprland, or sway-fx as a drop-in replacement for sway.
-background_opacity 0.7
+# background_opacity 0.7
 
 # Just a keybind to change font size to your liking, it's CTRL + scroll wheel up or down.
 map ctrl+shift+plus change_font_size all +1.0
@@ -31,7 +31,7 @@ map ctrl+shift+minus change_font_size all -1.0
 
 # Background opacity, set to 0 if you want blur/transparency.
 # Blur works with hyprland, or sway-fx as a drop-in replacement for sway.
-background_opacity 0.7
+background_opacity 0
 
 
 # Finally, the COLORS! these use the design system I made for this rice.
@@ -58,6 +58,6 @@ color13              #d800e7
 color6               #00d7be
 color14              #00fbff
 color7               #edefef
-color15              #eeeeee
+color15              #221515
   ";
 }

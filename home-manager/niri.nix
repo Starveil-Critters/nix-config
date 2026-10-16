@@ -358,8 +358,11 @@ window-rule {
     // This regular expression is intentionally made as specific as possible,
     // since this is the default config, and we want no false positives.
     // You can get away with just app-id="wezterm" if you want.
-    match app-id=r#"^org\.wezfurlong\.wezterm$"#
-    default-column-width {}
+    match app-id=r#"kitty"#
+    
+    background-effect {
+        blur true
+    }
 }
 
 // Open the Firefox picture-in-picture player as floating by default.
