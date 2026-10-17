@@ -57,6 +57,7 @@
     "clock" = {
       format = "󰅐 {:%H:%M}";
       tooltip = false;
+      format-alt = "󰅐 {:%d-%m-%Y}";
     };
     "network" = {
       format-wifi = " {bandwidthDownBits}";
