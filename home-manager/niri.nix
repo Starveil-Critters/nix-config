@@ -242,7 +242,7 @@ layout {
 
         width 3
         // active-color "#ffc87f"
-        inactive-color "#00c0a9"
+        inactive-color "#00d7be"
 
         // Color of the border around windows that request your attention.
         urgent-color "#FFFFFF"
@@ -251,7 +251,7 @@ layout {
         // For example, this is a pastel rainbow gradient via in="oklch longer hue".
         //
         // active-gradient from="#e5989b" to="#ffb4a2" angle=45 relative-to="workspace-view" in="oklch longer hue"
-        active-gradient from="#f700ff" to="#0004ff" angle=45
+        active-gradient from="#cb00cb" to="#1a72ff" angle=45
         // inactive-gradient from="#c1cb00" to="#5b00e3" angle=45
         // inactive-gradient from="#505050" to="#808080" angle=45 relative-to="workspace-view"
     }
