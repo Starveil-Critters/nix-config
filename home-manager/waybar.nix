@@ -162,7 +162,7 @@ border-radius: 0px;
 color: #1a72ff;
 
 border-style: solid;
-border-color: #d8cab8;
+border-color: #d4e0df;
 border-width: 1px;
 
 transition-duration: 120ms;
@@ -170,7 +170,7 @@ transition-duration: 120ms;
 
 #bluetooth:hover {
 background-color: rgba(20, 18, 22, 0.7);
-color: #d8cab8;
+color: #d4e0df;
 transition-duration: 120ms;
 }
 
@@ -181,13 +181,13 @@ transition-duration: 120ms;
 
 #clock:hover {
   background-color: rgba(20, 18, 22, 0.7);
-  color: #d8cab8;
+  color: #d4e0df;
 }
 
 
 #pulseaudio:hover {
   background-color: rgba(20, 18, 22, 0.7);
-  color: #d8cab8;
+  color: #d4e0df;
   transition-duration: 120ms;
 }
 
@@ -203,7 +203,7 @@ color: #00d7be
 }
 #custom-applauncher:hover {
   background-color: rgba(20, 18, 22, 0.7);
-  color: #d8cab8;
+  color: #d4e0df;
   transition-duration: 120ms;
 }
 
@@ -215,20 +215,20 @@ color: #00d7be
 }
 #custom-musicplayer:hover {
 background-color: rgba(20, 18, 22, 0.7);
-color: #d8cab8;
+color: #d4e0df;
 transition-duration: 120ms;
 }
 
 #tray menu {
   background-color: #141216;
-  color: #d8cab8;
+  color: #d4e0df;
   padding: 4px;
 }
 #tray menu menuitem {
   background-image: linear-gradient(to bottom, #27232b 100%);
 
   margin: 3px;
-  color: #d8cab8;
+  color: #d4e0df;
   border-radius: 4px;
   border-style: solid;
   border-color: #27232b;
@@ -244,7 +244,7 @@ transition-duration: 120ms;
   all: initial;
   min-width: 0;
   font-weight: bold;
-  color: #d8cab8;
+  color: #d4e0df;
   margin-right: 0.2cm;
   margin-left: 0.2cm;
 }
