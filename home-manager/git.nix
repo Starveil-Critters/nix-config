@@ -4,7 +4,7 @@
   # basic configuration of git, please change to your own
   programs.git = {
     enable = true;
-    userName = "Starveil-Critters";
-    userEmail = "starveil@posteo.net";
+    settings.user.name = "Starveil-Critters";
+    settings.user.email = "starveil@posteo.net";
   };
 }
