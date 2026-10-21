@@ -11,7 +11,7 @@
       ./sound.nix
       ./steam.nix
       ./users.nix
-      ./v4l2loopback.nix
+      # ./v4l2loopback.nix
       ./xkb.nix
     ];
 }
