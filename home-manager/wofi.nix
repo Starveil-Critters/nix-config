@@ -28,13 +28,13 @@
 }
 
 #window {
-  color: #00cc99;
-  border-color: #00ffcc;
+  color: #00d7be;
+  border-color: #00d7be;
   border-style: solid;
   border-width: 2px;
 
   /*Linear gradient background instead of standard background, because it makes cleaner border-radius cuts, issa bug :p*/
-  background-color: rgba(20, 18, 22, 0.7);
+  background-color: rgba(0, 0, 0, 0.8);
   border-radius: 14px;
 }
 #scroll {
