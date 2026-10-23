@@ -225,17 +225,17 @@ transition-duration: 120ms;
   padding: 4px;
 }
 #tray menu menuitem {
-  background-image: linear-gradient(to bottom, #27232b 100%);
+  background-image: linear-gradient(to bottom, #000000 100%);
 
   margin: 3px;
   color: #d4e0df;
   border-radius: 4px;
   border-style: solid;
-  border-color: #27232b;
+  border-color: #000000;
 }
 #tray menu menuitem:hover {
-  background-image: linear-gradient(to bottom, #27232b 100%);
-  color: #1a72ff;
+  background-image: linear-gradient(to bottom, #000000 100%);
+  color: #d800e7;
   font-weight: bold;
 }
 
