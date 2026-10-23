@@ -57,7 +57,7 @@ color5               #cb00cb
 color13              #d800e7
 color6               #00d7be
 color14              #00fbff
-color7               #edefef
-color15              #221515
+color7               #d4e0df
+color15              #d4e0df
   ";
 }
