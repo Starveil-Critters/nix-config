@@ -59,11 +59,12 @@
 
 #entry:selected {
   background-color: rgba(0, 0, 0, 0.2);
-  border-style: none;
-
+  border-style: solid;
+  border-color: #d8cab8;
+  border-width: 1px;
   color: #d8cab8;
   font-weight: bold;
-  outline: none;
+  outline: solid;
 }
 
 #input {
@@ -73,7 +74,7 @@
 
   border-style: none;
   border-bottom-style: solid;
-  border-width: 1px;
+  border-width: 2px;
 
   font-style: normal;
 
@@ -86,8 +87,9 @@
 }
 #input:focus {
   background-color: rgba(0, 0, 0, 0.2);
-  border-color: #ac82e9;
+  border-color: #00ff3c;
   font-style: italic;
+  border-width: 1px;
 }
 
 #img {
