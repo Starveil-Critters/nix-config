@@ -202,7 +202,7 @@ layout {
            off
 
         // How many logical pixels the ring extends out from the windows.
-        width 6
+        width 3
 
         // Colors can be set in a variety of ways:
         // - CSS named colors: "red"
@@ -240,7 +240,7 @@ layout {
         // If you enable the border, you probably want to disable the focus ring.
         on
 
-        width 3
+        width 1
         // active-color "#ffc87f"
         inactive-color "#00d7be"
 
