@@ -118,7 +118,7 @@ input {
 
 
 //Right Monitor
-output "HDMI-A-1" {
+output "DP-2" {
     mode "2560x1440@59.951"
     position x=1920 y=0
     transform "90"
@@ -130,7 +130,7 @@ output "DP-3" {
     focus-at-startup
 }
 // Left Monitor
-output "DP-2" {
+output "HDMI-A-1" {
     mode "2560x1440@59.951"
     position x=5280  y=0
     transform "270"
