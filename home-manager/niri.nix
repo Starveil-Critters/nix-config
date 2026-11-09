@@ -676,7 +676,10 @@ binds {
 
     // Powers off the monitors. To turn them back on, do any input like
     // moving the mouse or pressing any other key.
-    Mod+Shift+P { power-off-monitors; }
+    // Mod+Shift+P { power-off-monitors; }
+    Mod+P { spawn-sh "waybar"; }
+    Mod+Shift+P { spawn-sh "pkill waybar"; }
+    
 }
 '';
   };
