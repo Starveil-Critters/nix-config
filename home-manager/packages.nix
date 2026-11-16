@@ -60,7 +60,7 @@
     xwayland-satellite # Steam needs this
     scrcpy # Screencopy (usb streaming for ayn)
     ffmpeg # Video Recording utility, Needed for krita to export animations
-    
+    calibre # eReader utility
 
 
 
