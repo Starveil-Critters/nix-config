@@ -31,7 +31,7 @@
     telegram-desktop
     signal-desktop
     element-desktop
-
+    stoat-desktop
 
     # Productive Software
     obs-studio # Video Recording/Streaming Software
